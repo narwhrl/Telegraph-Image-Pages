@@ -8,7 +8,7 @@
       <Upload/>
     </div>
     <div class="footer">
-      基于 <a href="https://telegra.ph" target="_blank">Telegraph</a> 的图片上传工具，UI来自 <a href="https://github.com/cf-pages/Telegraph-Image" target="_blank">Telegraph-Image</a>
+      Powered by <a href="https://telegra.ph" target="_blank">Telegraph</a> & <a href="https://pages.dev" target="_blank">Cloudflare</a>. Modified from <a href="https://github.com/cf-pages/Telegraph-Image">cf-pages/Telegraph-Image.</a>
     </div>
   </div>
 </template>
