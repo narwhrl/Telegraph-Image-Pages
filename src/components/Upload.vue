@@ -1,6 +1,6 @@
 <template>
   <div class="upload">
-    <div class="title">Telegraph-Image-Pages</div>
+    <div class="title">Telegraph 图床</div>
     <div class="upload-main">
         <Waiting v-show="status === 0" @change="onChange" :show="status === 0"/>
         <Uploading v-show="status === 1"/>
